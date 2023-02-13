@@ -1,0 +1,20 @@
+total 76
+drwxr-xr-x 2 root root  4096 Feb 13 11:15 .
+drwxr-xr-x 6 root root   104 Feb 13 09:00 ..
+-rwxr--r-- 1 root root    32 Feb 13 09:36 0-hello_world
+-rwxr--r-- 1 root root    33 Feb 13 09:02 0-hello_world~
+-rwxr--r-- 1 root root    28 Feb 13 09:44 1-confused_smiley
+-rwxr--r-- 1 root root    29 Feb 13 10:03 2-hellofile
+-rw-r--r-- 1 root root 12288 Feb 13 09:59 .2-hellofile.swp
+-rwxr--r-- 1 root root    40 Feb 13 10:06 3-twofiles
+-rwxr--r-- 1 root root    35 Feb 13 10:09 4-lastlines
+-rwxr--r-- 1 root root    35 Feb 13 10:12 5-firstlines
+-rwxr--r-- 1 root root    40 Feb 13 10:17 6-third_line
+-rwxr--r-- 1 root root    99 Feb 13 11:03 7-file
+-rwxr--r-- 1 root root    36 Feb 13 11:14 8-cwd_state
+-rw-r--r-- 1 root root    39 Feb 13 10:53 \*\\'"Best
+-rw-r--r-- 1 root root    12 Feb 13 11:03 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    12 Feb 13 10:49 \*\\'Best School\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     1 Feb 13 10:24 .gitignore
+-rw-r--r-- 1 root root     0 Feb 13 11:15 ls_cwd_content
+-rw-r--r-- 1 root root    16 Feb 13 09:33 README.md
