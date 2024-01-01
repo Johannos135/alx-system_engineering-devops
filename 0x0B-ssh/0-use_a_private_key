@@ -1,8 +1,3 @@
 #!/usr/bin/env bash
-
-server_address=34.203.33.38
-user=ubuntu
-
 # SSH connection using private key
-ssh -i ~/.ssh/school ${user}@${server_address}
-
+ssh -i ~/.ssh/school ubuntu@34.203.33.38
