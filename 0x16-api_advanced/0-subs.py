@@ -2,7 +2,6 @@
 """
 number of subscribers for a given subreddit
 """
-
 from requests import get
 
 
